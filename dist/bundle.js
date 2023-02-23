@@ -1,0 +1,1 @@
+(()=>{"use strict";let e=document.querySelector(".banner__count"),n=document.querySelector(".banner__left"),t=document.querySelector(".banner__right"),r=1;function c(){e.innerHTML=r<10?"0"+r:r}c(),t.addEventListener("click",(()=>{r++,c()})),n.addEventListener("click",(()=>{r--,c()}))})();
