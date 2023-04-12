@@ -1,5 +1,6 @@
 {
   "name": "name-project",
+  "homepage":"https://vladimirsukhoparov.github.io/watch-store/",
   "scripts": {
     "build": "webpack",
     "dev": "webpack serve --env develop"
