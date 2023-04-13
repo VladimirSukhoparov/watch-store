@@ -1,7 +1,7 @@
 # watch-store
 
 creating a landing page based on the figma layout
-![screenshot](./readme-assets/watch.png)
+pages: https://vladimirsukhoparov.github.io/watch-store/
 
 ### Install dependencies
 
